@@ -4,3 +4,7 @@ Test repository
 
 ## About me
 I am an assistant professor of economics trying to learn Git
+
+## Favorite books
+The Discoverers
+Don Quijote
